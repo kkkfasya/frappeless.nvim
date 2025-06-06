@@ -16,4 +16,8 @@ Plug 'kkkfasya/frappeless.nvim'
 :colorscheme frappeless
 ```
 
+### Roadmap
+1. cleanup unused code
+2. options to change background color (although the default looks amazing but you people always want to change something)
+
 > this needs a lot of cleanup since there are a lot of unnecessary code, but it's working now!
